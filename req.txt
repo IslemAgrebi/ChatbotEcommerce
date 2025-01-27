@@ -1,0 +1,7 @@
+langchain-chroma>=0.1.2
+langchain-huggingface
+fastapi
+streamlit
+uvicorn
+langchain-huggingface
+python-dotenv
